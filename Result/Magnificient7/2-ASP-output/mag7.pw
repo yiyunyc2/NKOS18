@@ -1,0 +1,21 @@
+
+Possible world 0:
+{T1.a">"T2.y, T1.a">"T2.z, T1.a"="T2.x, T1.b"="T2.y, T1.c"="T2.z, T1.c"<"T2.x, T1.b"<"T2.x, T1.c"!"T2.y, T1.b"!"T2.z}
+
+Possible world 1:
+{T1.a">"T2.y, T1.b">"T2.y, T1.a">"T2.z, T1.a"="T2.x, T1.c"<"T2.x, T1.b"<"T2.x, T1.c"<"T2.z, T1.b"><"T2.z, T1.c"!"T2.y}
+
+Possible world 2:
+{T1.a">"T2.y, T1.c">"T2.z, T1.a">"T2.z, T1.a"="T2.x, T1.c"<"T2.x, T1.b"<"T2.x, T1.b"<"T2.y, T1.c"><"T2.y, T1.b"!"T2.z}
+
+Possible world 3:
+{T1.a">"T2.y, T1.a">"T2.z, T1.a"="T2.x, T1.c"="T2.y, T1.b"="T2.z, T1.c"<"T2.x, T1.b"<"T2.x, T1.b"!"T2.y, T1.c"!"T2.z}
+
+Possible world 4:
+{T1.c">"T2.y, T1.a">"T2.y, T1.a">"T2.z, T1.a"="T2.x, T1.c"<"T2.x, T1.b"<"T2.x, T1.b"<"T2.z, T1.c"><"T2.z, T1.b"!"T2.y}
+
+Possible world 5:
+{T1.a">"T2.y, T1.a">"T2.z, T1.b">"T2.z, T1.a"="T2.x, T1.c"<"T2.x, T1.b"<"T2.x, T1.c"<"T2.y, T1.b"><"T2.y, T1.c"!"T2.z}
+
+Possible world 6:
+{T1.a">"T2.y, T1.a">"T2.z, T1.a"="T2.x, T1.c"<"T2.x, T1.b"<"T2.x, T1.c"><"T2.y, T1.b"><"T2.y, T1.c"><"T2.z, T1.b"><"T2.z}

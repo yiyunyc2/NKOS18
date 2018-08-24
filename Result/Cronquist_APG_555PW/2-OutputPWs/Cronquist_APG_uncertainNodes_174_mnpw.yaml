@@ -1,0 +1,599 @@
+APG.APG.BasalEudicots\nAPG.Ranunculales:
+  concept: APG.BasalEudicots\nAPG.Ranunculales
+  group: APG
+APG.APG.Caryophyllales\nAPG.CaryophyllidClade:
+  concept: APG.Caryophyllales\nAPG.CaryophyllidClade
+  group: APG
+APG.Asparagales:
+  concept: Asparagales
+  group: APG
+APG.AsteridClade:
+  concept: AsteridClade
+  group: APG
+APG.Caesalpinioideae:
+  concept: Caesalpinioideae
+  group: APG
+APG.Eudicots:
+  concept: Eudicots
+  group: APG
+APG.Faboideae:
+  concept: Faboideae
+  group: APG
+APG.Lamiales:
+  concept: Lamiales
+  group: APG
+APG.Malpighiales:
+  concept: Malpighiales
+  group: APG
+APG.Mimosoideae:
+  concept: Mimosoideae
+  group: APG
+APG.Rosales:
+  concept: Rosales
+  group: APG
+APG.RosidClade:
+  concept: RosidClade
+  group: APG
+C.Aceraceae:
+  concept: Aceraceae
+  group: C
+C.Arecidae:
+  concept: Arecidae
+  group: C
+C.Asteridae:
+  concept: Asteridae
+  group: C
+C.Caesalpiniaceae:
+  concept: Caesalpiniaceae
+  group: C
+C.Caryophyllales:
+  concept: Caryophyllales
+  group: C
+C.Caryophyllidae:
+  concept: Caryophyllidae
+  group: C
+C.Fabaceae:
+  concept: Fabaceae
+  group: C
+C.Hamamelidae:
+  concept: Hamamelidae
+  group: C
+C.Hippocastanaceae:
+  concept: Hippocastanaceae
+  group: C
+C.Liliales:
+  concept: Liliales
+  group: C
+C.Liliidae:
+  concept: Liliidae
+  group: C
+C.Magnoliidae:
+  concept: Magnoliidae
+  group: C
+C.Magnoliopsida:
+  concept: Magnoliopsida
+  group: C
+C.Mimosaceae:
+  concept: Mimosaceae
+  group: C
+C.Rosidae:
+  concept: Rosidae
+  group: C
+C.Sapindaceae:
+  concept: Sapindaceae
+  group: C
+C.Scrophulariales:
+  concept: Scrophulariales
+  group: C
+C.Violales:
+  concept: Violales
+  group: C
+congruent.APG.Alismatales\nAPG.Araceae\nC.Araceae\nC.Arales:
+  concept: APG.Alismatales\nAPG.Araceae\nC.Araceae\nC.Arales
+  group: congruent
+congruent.APG.Apiaceae\nAPG.Apiales\nC.Apiaceae\nC.Apiales:
+  concept: APG.Apiaceae\nAPG.Apiales\nC.Apiaceae\nC.Apiales
+  group: congruent
+congruent.APG.Arecaceae\nAPG.Arecales\nC.Arecaceae\nC.Arecales:
+  concept: APG.Arecaceae\nAPG.Arecales\nC.Arecaceae\nC.Arecales
+  group: congruent
+congruent.APG.Asclepiadaceae\nAPG.Gentianales\nC.Asclepiadaceae\nC.Gentianales:
+  concept: APG.Asclepiadaceae\nAPG.Gentianales\nC.Asclepiadaceae\nC.Gentianales
+  group: congruent
+congruent.APG.Asteraceae\nAPG.Asterales\nC.Asteraceae\nC.Asterales:
+  concept: APG.Asteraceae\nAPG.Asterales\nC.Asteraceae\nC.Asterales
+  group: congruent
+congruent.APG.Brassicaceae\nAPG.Brassicales\nC.Brassicaceae\nC.Capparales:
+  concept: APG.Brassicaceae\nAPG.Brassicales\nC.Brassicaceae\nC.Capparales
+  group: congruent
+congruent.APG.Caprifoliaceae\nAPG.Dipsacales\nC.Caprifoliaceae\nC.Dipsacales:
+  concept: APG.Caprifoliaceae\nAPG.Dipsacales\nC.Caprifoliaceae\nC.Dipsacales
+  group: congruent
+congruent.APG.CoreEudicots\nAPG.Hamamelidaceae\nAPG.Saxifragales\nC.Hamamelidaceae\nC.Hamamelidales:
+  concept: APG.CoreEudicots\nAPG.Hamamelidaceae\nAPG.Saxifragales\nC.Hamamelidaceae\nC.Hamamelidales
+  group: congruent
+congruent.APG.Cucurbitaceae\nAPG.Cucurbitales\nC.Cucurbitaceae:
+  concept: APG.Cucurbitaceae\nAPG.Cucurbitales\nC.Cucurbitaceae
+  group: congruent
+congruent.APG.Ericaceae\nAPG.Ericales\nC.Ericaceae\nC.Ericales:
+  concept: APG.Ericaceae\nAPG.Ericales\nC.Ericaceae\nC.Ericales
+  group: congruent
+congruent.APG.Euphorbiaceae\nC.Euphorbiaceae\nC.Euphorbiales:
+  concept: APG.Euphorbiaceae\nC.Euphorbiaceae\nC.Euphorbiales
+  group: congruent
+congruent.APG.Fabaceae\nAPG.Fabales\nC.Fabales:
+  concept: APG.Fabaceae\nAPG.Fabales\nC.Fabales
+  group: congruent
+congruent.APG.Lamiaceae\nC.Lamiaceae\nC.Lamiales:
+  concept: APG.Lamiaceae\nC.Lamiaceae\nC.Lamiales
+  group: congruent
+congruent.APG.Liliaceae\nAPG.Liliales\nC.Liliaceae:
+  concept: APG.Liliaceae\nAPG.Liliales\nC.Liliaceae
+  group: congruent
+congruent.APG.Magnoliaceae\nAPG.Magnoliales\nAPG.Magnoliids\nC.Magnoliaceae\nC.Magnoliales:
+  concept: APG.Magnoliaceae\nAPG.Magnoliales\nAPG.Magnoliids\nC.Magnoliaceae\nC.Magnoliales
+  group: congruent
+congruent.APG.Malvaceae\nAPG.Malvales\nC.Malvaceae\nC.Malvales:
+  concept: APG.Malvaceae\nAPG.Malvales\nC.Malvaceae\nC.Malvales
+  group: congruent
+congruent.APG.Moraceae\nC.Moraceae\nC.Urticales:
+  concept: APG.Moraceae\nC.Moraceae\nC.Urticales
+  group: congruent
+congruent.APG.Myrtales\nAPG.Onagraceae\nC.Myrtales\nC.Onagraceae:
+  concept: APG.Myrtales\nAPG.Onagraceae\nC.Myrtales\nC.Onagraceae
+  group: congruent
+congruent.APG.Orchidaceae\nC.Orchidaceae\nC.Orchidales:
+  concept: APG.Orchidaceae\nC.Orchidaceae\nC.Orchidales
+  group: congruent
+congruent.APG.Papaveraceae\nC.Papaveraceae\nC.Papaverales:
+  concept: APG.Papaveraceae\nC.Papaveraceae\nC.Papaverales
+  group: congruent
+congruent.APG.Poaceae\nAPG.Poales\nC.Commelinidae\nC.Cyperales\nC.Poaceae:
+  concept: APG.Poaceae\nAPG.Poales\nC.Commelinidae\nC.Cyperales\nC.Poaceae
+  group: congruent
+congruent.APG.Polygonaceae\nC.Polygonaceae\nC.Polygonales:
+  concept: APG.Polygonaceae\nC.Polygonaceae\nC.Polygonales
+  group: congruent
+congruent.APG.Ranunculaceae\nC.Ranunculaceae\nC.Ranunculales:
+  concept: APG.Ranunculaceae\nC.Ranunculaceae\nC.Ranunculales
+  group: congruent
+congruent.APG.Rosaceae\nC.Rosaceae\nC.Rosales:
+  concept: APG.Rosaceae\nC.Rosaceae\nC.Rosales
+  group: congruent
+congruent.APG.Salicaceae\nC.Salicaceae\nC.Salicales:
+  concept: APG.Salicaceae\nC.Salicaceae\nC.Salicales
+  group: congruent
+congruent.APG.Sapindaceae\nAPG.Sapindales\nC.Sapindales:
+  concept: APG.Sapindaceae\nAPG.Sapindales\nC.Sapindales
+  group: congruent
+congruent.APG.Solanaceae\nAPG.Solanales\nC.Solanaceae\nC.Solanales:
+  concept: APG.Solanaceae\nAPG.Solanales\nC.Solanaceae\nC.Solanales
+  group: congruent
+congruent.C.Betulaceae\nAPG.Betulaceae:
+  concept: C.Betulaceae\nAPG.Betulaceae
+  group: congruent
+congruent.C.Cactaceae\nAPG.Cactaceae:
+  concept: C.Cactaceae\nAPG.Cactaceae
+  group: congruent
+congruent.C.Caryophyllaceae\nAPG.Caryophyllaceae:
+  concept: C.Caryophyllaceae\nAPG.Caryophyllaceae
+  group: congruent
+congruent.C.Fagaceae\nAPG.Fagaceae:
+  concept: C.Fagaceae\nAPG.Fagaceae
+  group: congruent
+congruent.C.Fagales\nAPG.Fagales:
+  concept: C.Fagales\nAPG.Fagales
+  group: congruent
+congruent.C.Iridaceae\nAPG.Iridaceae:
+  concept: C.Iridaceae\nAPG.Iridaceae
+  group: congruent
+congruent.C.Liliopsida\nAPG.Monocots:
+  concept: C.Liliopsida\nAPG.Monocots
+  group: congruent
+congruent.C.Magnoliophyta\nAPG.Angiosperms:
+  concept: C.Magnoliophyta\nAPG.Angiosperms
+  group: congruent
+congruent.C.Oleaceae\nAPG.Oleaceae:
+  concept: C.Oleaceae\nAPG.Oleaceae
+  group: congruent
+congruent.C.Portulacaceae\nAPG.Portulacaceae:
+  concept: C.Portulacaceae\nAPG.Portulacaceae
+  group: congruent
+congruent.C.Scrophulariaceae\nAPG.Scrophulariaceae:
+  concept: C.Scrophulariaceae\nAPG.Scrophulariaceae
+  group: congruent
+congruent.C.Violaceae\nAPG.Violaceae:
+  concept: C.Violaceae\nAPG.Violaceae
+  group: congruent
+APG.Alismatales\nAPG.Araceae\nC.Araceae\nC.Arales_C.Arecidae:
+  label: is_a (input)
+  s: APG.Alismatales\nAPG.Araceae\nC.Araceae\nC.Arales
+  t: C.Arecidae
+APG.Apiaceae\nAPG.Apiales\nC.Apiaceae\nC.Apiales_APG.AsteridClade:
+  label: is_a (input)
+  s: APG.Apiaceae\nAPG.Apiales\nC.Apiaceae\nC.Apiales
+  t: APG.AsteridClade
+APG.Apiaceae\nAPG.Apiales\nC.Apiaceae\nC.Apiales_C.Rosidae:
+  label: is_a (input)
+  s: APG.Apiaceae\nAPG.Apiales\nC.Apiaceae\nC.Apiales
+  t: C.Rosidae
+APG.Arecaceae\nAPG.Arecales\nC.Arecaceae\nC.Arecales_C.Arecidae:
+  label: is_a (input)
+  s: APG.Arecaceae\nAPG.Arecales\nC.Arecaceae\nC.Arecales
+  t: C.Arecidae
+APG.Asclepiadaceae\nAPG.Gentianales\nC.Asclepiadaceae\nC.Gentianales_C.Asteridae:
+  label: is_a (input)
+  s: APG.Asclepiadaceae\nAPG.Gentianales\nC.Asclepiadaceae\nC.Gentianales
+  t: C.Asteridae
+APG.Asparagales_C.Liliidae:
+  label: is_a (inferred)
+  s: APG.Asparagales
+  t: C.Liliidae
+APG.Asteraceae\nAPG.Asterales\nC.Asteraceae\nC.Asterales_C.Asteridae:
+  label: is_a (input)
+  s: APG.Asteraceae\nAPG.Asterales\nC.Asteraceae\nC.Asterales
+  t: C.Asteridae
+APG.AsteridClade_APG.Eudicots:
+  label: is_a (input)
+  s: APG.AsteridClade
+  t: APG.Eudicots
+APG.BasalEudicots\nAPG.Ranunculales_APG.Eudicots:
+  label: is_a (input)
+  s: APG.BasalEudicots\nAPG.Ranunculales
+  t: APG.Eudicots
+APG.BasalEudicots\nAPG.Ranunculales_C.Magnoliidae:
+  label: is_a (inferred)
+  s: APG.BasalEudicots\nAPG.Ranunculales
+  t: C.Magnoliidae
+APG.Brassicaceae\nAPG.Brassicales\nC.Brassicaceae\nC.Capparales_APG.RosidClade:
+  label: is_a (input)
+  s: APG.Brassicaceae\nAPG.Brassicales\nC.Brassicaceae\nC.Capparales
+  t: APG.RosidClade
+APG.Brassicaceae\nAPG.Brassicales\nC.Brassicaceae\nC.Capparales_C.Caryophyllidae:
+  label: is_a (input)
+  s: APG.Brassicaceae\nAPG.Brassicales\nC.Brassicaceae\nC.Capparales
+  t: C.Caryophyllidae
+APG.Caesalpinioideae_C.Mimosaceae:
+  label: is_a (inferred)
+  s: APG.Caesalpinioideae
+  t: C.Mimosaceae
+APG.Caprifoliaceae\nAPG.Dipsacales\nC.Caprifoliaceae\nC.Dipsacales_C.Asteridae:
+  label: is_a (input)
+  s: APG.Caprifoliaceae\nAPG.Dipsacales\nC.Caprifoliaceae\nC.Dipsacales
+  t: C.Asteridae
+APG.Caryophyllales\nAPG.CaryophyllidClade_C.Caryophyllidae:
+  label: is_a (inferred)
+  s: APG.Caryophyllales\nAPG.CaryophyllidClade
+  t: C.Caryophyllidae
+APG.CoreEudicots\nAPG.Hamamelidaceae\nAPG.Saxifragales\nC.Hamamelidaceae\nC.Hamamelidales_C.Hamamelidae:
+  label: is_a (input)
+  s: APG.CoreEudicots\nAPG.Hamamelidaceae\nAPG.Saxifragales\nC.Hamamelidaceae\nC.Hamamelidales
+  t: C.Hamamelidae
+APG.Cucurbitaceae\nAPG.Cucurbitales\nC.Cucurbitaceae_C.Violales:
+  label: is_a (input)
+  s: APG.Cucurbitaceae\nAPG.Cucurbitales\nC.Cucurbitaceae
+  t: C.Violales
+APG.Ericaceae\nAPG.Ericales\nC.Ericaceae\nC.Ericales_APG.AsteridClade:
+  label: is_a (input)
+  s: APG.Ericaceae\nAPG.Ericales\nC.Ericaceae\nC.Ericales
+  t: APG.AsteridClade
+APG.Ericaceae\nAPG.Ericales\nC.Ericaceae\nC.Ericales_C.Caryophyllidae:
+  label: is_a (input)
+  s: APG.Ericaceae\nAPG.Ericales\nC.Ericaceae\nC.Ericales
+  t: C.Caryophyllidae
+APG.Eudicots_C.Magnoliopsida:
+  label: is_a (inferred)
+  s: APG.Eudicots
+  t: C.Magnoliopsida
+APG.Euphorbiaceae\nC.Euphorbiaceae\nC.Euphorbiales_APG.Malpighiales:
+  label: is_a (input)
+  s: APG.Euphorbiaceae\nC.Euphorbiaceae\nC.Euphorbiales
+  t: APG.Malpighiales
+APG.Euphorbiaceae\nC.Euphorbiaceae\nC.Euphorbiales_C.Rosidae:
+  label: is_a (input)
+  s: APG.Euphorbiaceae\nC.Euphorbiaceae\nC.Euphorbiales
+  t: C.Rosidae
+APG.Fabaceae\nAPG.Fabales\nC.Fabales_APG.RosidClade:
+  label: is_a (input)
+  s: APG.Fabaceae\nAPG.Fabales\nC.Fabales
+  t: APG.RosidClade
+APG.Fabaceae\nAPG.Fabales\nC.Fabales_C.Rosidae:
+  label: is_a (input)
+  s: APG.Fabaceae\nAPG.Fabales\nC.Fabales
+  t: C.Rosidae
+APG.Faboideae_APG.Fabaceae\nAPG.Fabales\nC.Fabales:
+  label: is_a (input)
+  s: APG.Faboideae
+  t: APG.Fabaceae\nAPG.Fabales\nC.Fabales
+APG.Lamiaceae\nC.Lamiaceae\nC.Lamiales_APG.Lamiales:
+  label: is_a (input)
+  s: APG.Lamiaceae\nC.Lamiaceae\nC.Lamiales
+  t: APG.Lamiales
+APG.Lamiales_C.Asteridae:
+  label: is_a (inferred)
+  s: APG.Lamiales
+  t: C.Asteridae
+APG.Liliaceae\nAPG.Liliales\nC.Liliaceae_C.Liliales:
+  label: is_a (input)
+  s: APG.Liliaceae\nAPG.Liliales\nC.Liliaceae
+  t: C.Liliales
+APG.Magnoliaceae\nAPG.Magnoliales\nAPG.Magnoliids\nC.Magnoliaceae\nC.Magnoliales_C.Magnoliidae:
+  label: is_a (input)
+  s: APG.Magnoliaceae\nAPG.Magnoliales\nAPG.Magnoliids\nC.Magnoliaceae\nC.Magnoliales
+  t: C.Magnoliidae
+APG.Malpighiales_APG.RosidClade:
+  label: is_a (input)
+  s: APG.Malpighiales
+  t: APG.RosidClade
+APG.Malvaceae\nAPG.Malvales\nC.Malvaceae\nC.Malvales_APG.RosidClade:
+  label: is_a (input)
+  s: APG.Malvaceae\nAPG.Malvales\nC.Malvaceae\nC.Malvales
+  t: APG.RosidClade
+APG.Malvaceae\nAPG.Malvales\nC.Malvaceae\nC.Malvales_C.Caryophyllidae:
+  label: is_a (input)
+  s: APG.Malvaceae\nAPG.Malvales\nC.Malvaceae\nC.Malvales
+  t: C.Caryophyllidae
+APG.Mimosoideae_C.Caesalpiniaceae:
+  label: is_a (inferred)
+  s: APG.Mimosoideae
+  t: C.Caesalpiniaceae
+APG.Moraceae\nC.Moraceae\nC.Urticales_APG.Rosales:
+  label: is_a (input)
+  s: APG.Moraceae\nC.Moraceae\nC.Urticales
+  t: APG.Rosales
+APG.Moraceae\nC.Moraceae\nC.Urticales_C.Hamamelidae:
+  label: is_a (input)
+  s: APG.Moraceae\nC.Moraceae\nC.Urticales
+  t: C.Hamamelidae
+APG.Myrtales\nAPG.Onagraceae\nC.Myrtales\nC.Onagraceae_APG.RosidClade:
+  label: is_a (input)
+  s: APG.Myrtales\nAPG.Onagraceae\nC.Myrtales\nC.Onagraceae
+  t: APG.RosidClade
+APG.Myrtales\nAPG.Onagraceae\nC.Myrtales\nC.Onagraceae_C.Rosidae:
+  label: is_a (input)
+  s: APG.Myrtales\nAPG.Onagraceae\nC.Myrtales\nC.Onagraceae
+  t: C.Rosidae
+APG.Orchidaceae\nC.Orchidaceae\nC.Orchidales_APG.Asparagales:
+  label: is_a (input)
+  s: APG.Orchidaceae\nC.Orchidaceae\nC.Orchidales
+  t: APG.Asparagales
+APG.Papaveraceae\nC.Papaveraceae\nC.Papaverales_APG.BasalEudicots\nAPG.Ranunculales:
+  label: is_a (input)
+  s: APG.Papaveraceae\nC.Papaveraceae\nC.Papaverales
+  t: APG.BasalEudicots\nAPG.Ranunculales
+APG.Poaceae\nAPG.Poales\nC.Commelinidae\nC.Cyperales\nC.Poaceae_C.Liliopsida\nAPG.Monocots:
+  label: is_a (input)
+  s: APG.Poaceae\nAPG.Poales\nC.Commelinidae\nC.Cyperales\nC.Poaceae
+  t: C.Liliopsida\nAPG.Monocots
+APG.Polygonaceae\nC.Polygonaceae\nC.Polygonales_APG.Caryophyllales\nAPG.CaryophyllidClade:
+  label: is_a (input)
+  s: APG.Polygonaceae\nC.Polygonaceae\nC.Polygonales
+  t: APG.Caryophyllales\nAPG.CaryophyllidClade
+APG.Ranunculaceae\nC.Ranunculaceae\nC.Ranunculales_APG.BasalEudicots\nAPG.Ranunculales:
+  label: is_a (input)
+  s: APG.Ranunculaceae\nC.Ranunculaceae\nC.Ranunculales
+  t: APG.BasalEudicots\nAPG.Ranunculales
+APG.Rosaceae\nC.Rosaceae\nC.Rosales_APG.Rosales:
+  label: is_a (input)
+  s: APG.Rosaceae\nC.Rosaceae\nC.Rosales
+  t: APG.Rosales
+APG.Rosaceae\nC.Rosaceae\nC.Rosales_C.Rosidae:
+  label: is_a (input)
+  s: APG.Rosaceae\nC.Rosaceae\nC.Rosales
+  t: C.Rosidae
+APG.Rosales_APG.RosidClade:
+  label: is_a (input)
+  s: APG.Rosales
+  t: APG.RosidClade
+APG.RosidClade_APG.Eudicots:
+  label: is_a (input)
+  s: APG.RosidClade
+  t: APG.Eudicots
+APG.Salicaceae\nC.Salicaceae\nC.Salicales_APG.Malpighiales:
+  label: is_a (input)
+  s: APG.Salicaceae\nC.Salicaceae\nC.Salicales
+  t: APG.Malpighiales
+APG.Salicaceae\nC.Salicaceae\nC.Salicales_C.Caryophyllidae:
+  label: is_a (input)
+  s: APG.Salicaceae\nC.Salicaceae\nC.Salicales
+  t: C.Caryophyllidae
+APG.Sapindaceae\nAPG.Sapindales\nC.Sapindales_APG.RosidClade:
+  label: is_a (input)
+  s: APG.Sapindaceae\nAPG.Sapindales\nC.Sapindales
+  t: APG.RosidClade
+APG.Sapindaceae\nAPG.Sapindales\nC.Sapindales_C.Rosidae:
+  label: is_a (input)
+  s: APG.Sapindaceae\nAPG.Sapindales\nC.Sapindales
+  t: C.Rosidae
+APG.Solanaceae\nAPG.Solanales\nC.Solanaceae\nC.Solanales_C.Asteridae:
+  label: is_a (input)
+  s: APG.Solanaceae\nAPG.Solanales\nC.Solanaceae\nC.Solanales
+  t: C.Asteridae
+C.Aceraceae_APG.Sapindaceae\nAPG.Sapindales\nC.Sapindales:
+  label: is_a (input)
+  s: C.Aceraceae
+  t: APG.Sapindaceae\nAPG.Sapindales\nC.Sapindales
+C.Arecidae_C.Liliopsida\nAPG.Monocots:
+  label: is_a (input)
+  s: C.Arecidae
+  t: C.Liliopsida\nAPG.Monocots
+C.Asteridae_APG.AsteridClade:
+  label: is_a (inferred)
+  s: C.Asteridae
+  t: APG.AsteridClade
+C.Betulaceae\nAPG.Betulaceae_C.Fagales\nAPG.Fagales:
+  label: is_a (input)
+  s: C.Betulaceae\nAPG.Betulaceae
+  t: C.Fagales\nAPG.Fagales
+C.Cactaceae\nAPG.Cactaceae_C.Caryophyllales:
+  label: is_a (input)
+  s: C.Cactaceae\nAPG.Cactaceae
+  t: C.Caryophyllales
+C.Caesalpiniaceae_APG.Fabaceae\nAPG.Fabales\nC.Fabales:
+  label: is_a (input)
+  s: C.Caesalpiniaceae
+  t: APG.Fabaceae\nAPG.Fabales\nC.Fabales
+C.Caesalpiniaceae_APG.Faboideae:
+  label: overlaps (inferred)
+  s: C.Caesalpiniaceae
+  t: APG.Faboideae
+C.Caryophyllaceae\nAPG.Caryophyllaceae_C.Caryophyllales:
+  label: is_a (input)
+  s: C.Caryophyllaceae\nAPG.Caryophyllaceae
+  t: C.Caryophyllales
+C.Caryophyllales_APG.Caryophyllales\nAPG.CaryophyllidClade:
+  label: is_a (inferred)
+  s: C.Caryophyllales
+  t: APG.Caryophyllales\nAPG.CaryophyllidClade
+C.Caryophyllidae_APG.AsteridClade:
+  label: overlaps (inferred)
+  s: C.Caryophyllidae
+  t: APG.AsteridClade
+C.Caryophyllidae_APG.Eudicots:
+  label: is_a (inferred)
+  s: C.Caryophyllidae
+  t: APG.Eudicots
+C.Caryophyllidae_APG.Malpighiales:
+  label: overlaps (inferred)
+  s: C.Caryophyllidae
+  t: APG.Malpighiales
+C.Caryophyllidae_APG.RosidClade:
+  label: overlaps (inferred)
+  s: C.Caryophyllidae
+  t: APG.RosidClade
+C.Fabaceae_APG.Faboideae:
+  label: is_a (inferred)
+  s: C.Fabaceae
+  t: APG.Faboideae
+C.Fagaceae\nAPG.Fagaceae_C.Fagales\nAPG.Fagales:
+  label: is_a (input)
+  s: C.Fagaceae\nAPG.Fagaceae
+  t: C.Fagales\nAPG.Fagales
+C.Fagales\nAPG.Fagales_APG.RosidClade:
+  label: is_a (input)
+  s: C.Fagales\nAPG.Fagales
+  t: APG.RosidClade
+C.Fagales\nAPG.Fagales_C.Hamamelidae:
+  label: is_a (input)
+  s: C.Fagales\nAPG.Fagales
+  t: C.Hamamelidae
+C.Hamamelidae_APG.Eudicots:
+  label: is_a (inferred)
+  s: C.Hamamelidae
+  t: APG.Eudicots
+C.Hamamelidae_APG.Rosales:
+  label: overlaps (inferred)
+  s: C.Hamamelidae
+  t: APG.Rosales
+C.Hamamelidae_APG.RosidClade:
+  label: overlaps (inferred)
+  s: C.Hamamelidae
+  t: APG.RosidClade
+C.Hippocastanaceae_APG.Sapindaceae\nAPG.Sapindales\nC.Sapindales:
+  label: is_a (input)
+  s: C.Hippocastanaceae
+  t: APG.Sapindaceae\nAPG.Sapindales\nC.Sapindales
+C.Iridaceae\nAPG.Iridaceae_APG.Asparagales:
+  label: is_a (input)
+  s: C.Iridaceae\nAPG.Iridaceae
+  t: APG.Asparagales
+C.Iridaceae\nAPG.Iridaceae_C.Liliales:
+  label: is_a (input)
+  s: C.Iridaceae\nAPG.Iridaceae
+  t: C.Liliales
+C.Liliales_APG.Asparagales:
+  label: overlaps (inferred)
+  s: C.Liliales
+  t: APG.Asparagales
+C.Liliales_C.Liliidae:
+  label: is_a (input)
+  s: C.Liliales
+  t: C.Liliidae
+C.Liliidae_C.Liliopsida\nAPG.Monocots:
+  label: is_a (input)
+  s: C.Liliidae
+  t: C.Liliopsida\nAPG.Monocots
+C.Liliopsida\nAPG.Monocots_C.Magnoliophyta\nAPG.Angiosperms:
+  label: is_a (input)
+  s: C.Liliopsida\nAPG.Monocots
+  t: C.Magnoliophyta\nAPG.Angiosperms
+C.Magnoliidae_APG.Eudicots:
+  label: overlaps (inferred)
+  s: C.Magnoliidae
+  t: APG.Eudicots
+C.Magnoliidae_C.Magnoliopsida:
+  label: is_a (input)
+  s: C.Magnoliidae
+  t: C.Magnoliopsida
+C.Magnoliopsida_C.Magnoliophyta\nAPG.Angiosperms:
+  label: is_a (input)
+  s: C.Magnoliopsida
+  t: C.Magnoliophyta\nAPG.Angiosperms
+C.Mimosaceae_APG.Fabaceae\nAPG.Fabales\nC.Fabales:
+  label: is_a (input)
+  s: C.Mimosaceae
+  t: APG.Fabaceae\nAPG.Fabales\nC.Fabales
+C.Mimosaceae_APG.Faboideae:
+  label: overlaps (inferred)
+  s: C.Mimosaceae
+  t: APG.Faboideae
+C.Oleaceae\nAPG.Oleaceae_C.Scrophulariales:
+  label: is_a (input)
+  s: C.Oleaceae\nAPG.Oleaceae
+  t: C.Scrophulariales
+C.Portulacaceae\nAPG.Portulacaceae_C.Caryophyllales:
+  label: is_a (input)
+  s: C.Portulacaceae\nAPG.Portulacaceae
+  t: C.Caryophyllales
+C.Rosidae_APG.AsteridClade:
+  label: overlaps (inferred)
+  s: C.Rosidae
+  t: APG.AsteridClade
+C.Rosidae_APG.Eudicots:
+  label: is_a (inferred)
+  s: C.Rosidae
+  t: APG.Eudicots
+C.Rosidae_APG.Malpighiales:
+  label: overlaps (inferred)
+  s: C.Rosidae
+  t: APG.Malpighiales
+C.Rosidae_APG.Rosales:
+  label: overlaps (inferred)
+  s: C.Rosidae
+  t: APG.Rosales
+C.Rosidae_APG.RosidClade:
+  label: overlaps (inferred)
+  s: C.Rosidae
+  t: APG.RosidClade
+C.Sapindaceae_APG.Sapindaceae\nAPG.Sapindales\nC.Sapindales:
+  label: is_a (input)
+  s: C.Sapindaceae
+  t: APG.Sapindaceae\nAPG.Sapindales\nC.Sapindales
+C.Scrophulariaceae\nAPG.Scrophulariaceae_C.Scrophulariales:
+  label: is_a (input)
+  s: C.Scrophulariaceae\nAPG.Scrophulariaceae
+  t: C.Scrophulariales
+C.Scrophulariales_APG.Lamiales:
+  label: is_a (inferred)
+  s: C.Scrophulariales
+  t: APG.Lamiales
+C.Violaceae\nAPG.Violaceae_APG.Malpighiales:
+  label: is_a (input)
+  s: C.Violaceae\nAPG.Violaceae
+  t: APG.Malpighiales
+C.Violaceae\nAPG.Violaceae_C.Violales:
+  label: is_a (input)
+  s: C.Violaceae\nAPG.Violaceae
+  t: C.Violales
+C.Violales_APG.Malpighiales:
+  label: overlaps (inferred)
+  s: C.Violales
+  t: APG.Malpighiales
+C.Violales_APG.RosidClade:
+  label: is_a (inferred)
+  s: C.Violales
+  t: APG.RosidClade
+C.Violales_C.Caryophyllidae:
+  label: is_a (input)
+  s: C.Violales
+  t: C.Caryophyllidae

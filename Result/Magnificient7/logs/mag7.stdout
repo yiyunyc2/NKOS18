@@ -1,0 +1,55 @@
+##### Executing command:
+
+/Users/ludaesch/git/EulerX/src-el/euler2 align mag7.txt -r clingo 
+
+
+##### Euler version:
+
+master
+6c7842fc0243465d83e5198a4a46fc78eb976584
+
+
+##### GraphViz version:
+
+dot - graphviz version 2.36.0 (20140111.2315)
+
+
+##### DLV version:
+
+DLV [build BEN/Dec 17 2012   gcc 4.2.1 (Apple Inc. build 5666) (dot 3)]
+
+usage: dlv {FRONTEND} {OPTIONS} [filename [filename [...]]]
+
+Specify -help for more detailed usage information.
+
+
+##### Running User, Host and Date:
+User:	ludaesch
+Host:	lism02-ludaesch.local
+Date:	2018-06-11-22:59:21
+
+
+##### Euler Outputs:
+******* You are running example mag7 *******
+
+Possible world 0:
+{T1.a">"T2.y, T1.a">"T2.z, T1.a"="T2.x, T1.b"="T2.y, T1.c"="T2.z, T1.c"<"T2.x, T1.b"<"T2.x, T1.c"!"T2.y, T1.b"!"T2.z}
+
+Possible world 1:
+{T1.a">"T2.y, T1.b">"T2.y, T1.a">"T2.z, T1.a"="T2.x, T1.c"<"T2.x, T1.b"<"T2.x, T1.c"<"T2.z, T1.b"><"T2.z, T1.c"!"T2.y}
+
+Possible world 2:
+{T1.a">"T2.y, T1.c">"T2.z, T1.a">"T2.z, T1.a"="T2.x, T1.c"<"T2.x, T1.b"<"T2.x, T1.b"<"T2.y, T1.c"><"T2.y, T1.b"!"T2.z}
+
+Possible world 3:
+{T1.a">"T2.y, T1.a">"T2.z, T1.a"="T2.x, T1.c"="T2.y, T1.b"="T2.z, T1.c"<"T2.x, T1.b"<"T2.x, T1.b"!"T2.y, T1.c"!"T2.z}
+
+Possible world 4:
+{T1.c">"T2.y, T1.a">"T2.y, T1.a">"T2.z, T1.a"="T2.x, T1.c"<"T2.x, T1.b"<"T2.x, T1.b"<"T2.z, T1.c"><"T2.z, T1.b"!"T2.y}
+
+Possible world 5:
+{T1.a">"T2.y, T1.a">"T2.z, T1.b">"T2.z, T1.a"="T2.x, T1.c"<"T2.x, T1.b"<"T2.x, T1.c"<"T2.y, T1.b"><"T2.y, T1.c"!"T2.z}
+
+Possible world 6:
+{T1.a">"T2.y, T1.a">"T2.z, T1.a"="T2.x, T1.c"<"T2.x, T1.b"<"T2.x, T1.c"><"T2.y, T1.b"><"T2.y, T1.c"><"T2.z, T1.b"><"T2.z}
+

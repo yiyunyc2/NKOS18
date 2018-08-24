@@ -1,0 +1,38 @@
+T1.a:
+  concept: a
+  group: T1
+T1.b:
+  concept: b
+  group: T1
+T1.c:
+  concept: c
+  group: T1
+T2.x:
+  concept: x
+  group: T2
+T2.y:
+  concept: y
+  group: T2
+T2.z:
+  concept: z
+  group: T2
+T1.a_T2.x:
+  label: '='
+  s: T1.a
+  t: T2.x
+T1.b_T1.a:
+  label: isa
+  s: T1.b
+  t: T1.a
+T1.c_T1.a:
+  label: isa
+  s: T1.c
+  t: T1.a
+T2.y_T2.x:
+  label: isa
+  s: T2.y
+  t: T2.x
+T2.z_T2.x:
+  label: isa
+  s: T2.z
+  t: T2.x

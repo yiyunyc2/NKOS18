@@ -1,0 +1,11 @@
+firstTName = 'T1'
+secondTName = 'T2'
+thirdTName = ''
+fourthTName = ''
+fifthTName = ''
+allRcgEdgesDict = {}
+numOfPws = 7
+avFlag = False
+allRcgNodesDict = {'congruent.T1.b\\nT2.y': {'concept': 'T1.b\\nT2.y', 'group': 'congruent'}, 'T2.z': {'concept': 'z', 'group': 'T2'}, 'T2.y': {'concept': 'y', 'group': 'T2'}, 'congruent.T1.c\\nT2.y': {'concept': 'T1.c\\nT2.y', 'group': 'congruent'}, 'congruent.T1.a\\nT2.x': {'concept': 'T1.a\\nT2.x', 'group': 'congruent'}, 'T1.c': {'concept': 'c', 'group': 'T1'}, 'T1.b': {'concept': 'b', 'group': 'T1'}, 'congruent.T1.b\\nT2.z': {'concept': 'T1.b\\nT2.z', 'group': 'congruent'}, 'congruent.T1.c\\nT2.z': {'concept': 'T1.c\\nT2.z', 'group': 'congruent'}}
+trlist = [['T1.b\\nT2.y', 'T1.a\\nT2.x', 0], ['T1.c\\nT2.z', 'T1.a\\nT2.x', 0], ['T2.y', 'T1.b', 1], ['T1.c', 'T2.z', 1], ['T1.b', 'T1.a\\nT2.x', 0], ['T2.z', 'T1.a\\nT2.x', 0], ['T2.y', 'T1.a\\nT2.x', 2], ['T1.c', 'T1.a\\nT2.x', 2], ['T2.z', 'T1.c', 1], ['T1.b', 'T2.y', 1], ['T1.c', 'T1.a\\nT2.x', 0], ['T2.y', 'T1.a\\nT2.x', 0], ['T2.z', 'T1.a\\nT2.x', 2], ['T1.b', 'T1.a\\nT2.x', 2], ['T1.c\\nT2.y', 'T1.a\\nT2.x', 0], ['T1.b\\nT2.z', 'T1.a\\nT2.x', 0], ['T2.y', 'T1.c', 1], ['T1.b', 'T2.z', 1], ['T1.c', 'T1.a\\nT2.x', 0], ['T2.z', 'T1.a\\nT2.x', 0], ['T2.y', 'T1.a\\nT2.x', 2], ['T1.b', 'T1.a\\nT2.x', 2], ['T2.z', 'T1.b', 1], ['T1.c', 'T2.y', 1], ['T1.b', 'T1.a\\nT2.x', 0], ['T2.y', 'T1.a\\nT2.x', 0], ['T2.z', 'T1.a\\nT2.x', 2], ['T1.c', 'T1.a\\nT2.x', 2], ['T1.b', 'T1.a\\nT2.x', 0], ['T1.c', 'T1.a\\nT2.x', 0], ['T2.y', 'T1.a\\nT2.x', 0], ['T2.z', 'T1.a\\nT2.x', 0]]
+avFlag = True

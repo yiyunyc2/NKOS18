@@ -1,0 +1,2 @@
+tr = [['T1.b\\nT2.y', 'T1.a\\nT2.x', 0], ['T1.c\\nT2.z', 'T1.a\\nT2.x', 0]]
+pwIndex = 0

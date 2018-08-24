@@ -1,0 +1,9 @@
+taxonomy T1 T1
+(a b c)
+
+taxonomy T2 T2
+(x y z)
+
+articulation T12 T12
+[T1.a equals T2.x]
+

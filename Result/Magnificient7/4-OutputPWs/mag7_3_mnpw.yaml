@@ -1,0 +1,17 @@
+congruent.T1.a\nT2.x:
+  concept: T1.a\nT2.x
+  group: congruent
+congruent.T1.b\nT2.z:
+  concept: T1.b\nT2.z
+  group: congruent
+congruent.T1.c\nT2.y:
+  concept: T1.c\nT2.y
+  group: congruent
+T1.b\nT2.z_T1.a\nT2.x:
+  label: is_a (input)
+  s: T1.b\nT2.z
+  t: T1.a\nT2.x
+T1.c\nT2.y_T1.a\nT2.x:
+  label: is_a (input)
+  s: T1.c\nT2.y
+  t: T1.a\nT2.x

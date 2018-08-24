@@ -1,0 +1,13 @@
+from sets import Set
+fileName = 'mag7_2_mnpw'
+pwIndex = 2
+eq = {'T2.x': Set(['T1.a']), 'T1.a': Set(['T2.x'])}
+firstTName = 'T1'
+secondTName = 'T2'
+thirdTName = ''
+fourthTName = ''
+fifthTName = ''
+eqConLi = []
+tr = [['T1.b', 'T1.a', 0], ['T1.c', 'T1.a', 0], ['T2.y', 'T2.x', 0], ['T2.z', 'T2.x', 0], ['T2.y', 'T1.a', 1], ['T2.z', 'T1.c', 1], ['T2.z', 'T1.a', 1], ['T1.c', 'T2.x', 1], ['T1.b', 'T2.x', 1], ['T1.b', 'T2.y', 1]]
+mir = {'T2.y,T2.z': 1, 'T2.x,T1.b': 8, 'T1.b,T1.c': 1, 'T2.x,T1.a': 4, 'T1.c,T1.b': 1, 'T2.z,T1.a': 2, 'T2.z,T1.b': 1, 'T2.x,T1.c': 8, 'T2.x,T2.y': 8, 'T2.z,T1.c': 2, 'T2.y,T1.a': 2, 'T2.y,T1.c': 16, 'T2.x,T2.z': 8, 'T2.z,T2.y': 1, 'T1.a,T1.c': 8, 'T1.a,T2.z': 8, 'T1.a,T2.y': 8, 'T1.a,T2.x': 36, 'T1.a,T1.b': 8, 'T2.y,T1.b': 8}
+inputoverlaps = []

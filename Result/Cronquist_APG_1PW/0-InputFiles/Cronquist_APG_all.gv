@@ -1,0 +1,384 @@
+digraph{
+rankdir=LR
+node[shape=circle style=filled fillcolor="#FFFFFF"] 
+node[shape=box style=filled fillcolor="#CCFFCC" fontname="helvetica"] 
+"C.Sapindales"
+"C.Asclepiadaceae"
+"C.Ericales"
+"C.Cyperales"
+"C.Euphorbiales"
+"C.Iridaceae"
+"C.Asteridae"
+"C.Gentianales"
+"C.Myrtales"
+"C.Rosales"
+"C.Fabales"
+"C.Orchidales"
+"C.Betulaceae"
+"C.Liliaceae"
+"C.Malvales"
+"C.Asteraceae"
+"C.Rosidae"
+"C.Salicaceae"
+"C.Hippocastanaceae"
+"C.Ranunculales"
+"C.Violales"
+"C.Hamamelidales"
+"C.Euphorbiaceae"
+"C.Hamamelidae"
+"C.Magnoliidae"
+"C.Apiaceae"
+"C.Malvaceae"
+"C.Arecales"
+"C.Magnoliophyta"
+"C.Liliopsida"
+"C.Brassicaceae"
+"C.Violaceae"
+"C.Capparales"
+"C.Magnoliopsida"
+"C.Solanaceae"
+"C.Caryophyllaceae"
+"C.Scrophulariales"
+"C.Salicales"
+"C.Liliidae"
+"C.Moraceae"
+"C.Dipsacales"
+"C.Ericaceae"
+"C.Magnoliales"
+"C.Araceae"
+"C.Caryophyllidae"
+"C.Arales"
+"C.Solanales"
+"C.Magnoliaceae"
+"C.Fagales"
+"C.Scrophulariaceae"
+"C.Rosaceae"
+"C.Papaverales"
+"C.Fagaceae"
+"C.Arecidae"
+"C.Caprifoliaceae"
+"C.Cucurbitaceae"
+"C.Portulacaceae"
+"C.Orchidaceae"
+"C.Urticales"
+"C.Ranunculaceae"
+"C.Polygonaceae"
+"C.Caryophyllales"
+"C.Papaveraceae"
+"C.Apiales"
+"C.Liliales"
+"C.Asterales"
+"C.Mimosaceae"
+"C.Fabaceae"
+"C.Hamamelidaceae"
+"C.Onagraceae"
+"C.Arecaceae"
+"C.Caesalpiniaceae"
+"C.Aceraceae"
+"C.Polygonales"
+"C.Poaceae"
+"C.Commelinidae"
+"C.Lamiaceae"
+"C.Cactaceae"
+"C.Sapindaceae"
+"C.Lamiales"
+"C.Oleaceae"
+node[shape=circle style=filled fillcolor="#FFFFFF"] 
+node[shape=note style=filled fillcolor="#FFFFCC" fontname="helvetica"] 
+"APG.Gentianales"
+"APG.Malvales"
+"APG.Malpighiales"
+"APG.Fabales"
+"APG.Arecales"
+"APG.Onagraceae"
+"APG.Asterales"
+"APG.Araceae"
+"APG.Euphorbiaceae"
+"APG.Myrtales"
+"APG.Brassicaceae"
+"APG.Rosaceae"
+"APG.Asparagales"
+"APG.Cucurbitales"
+"APG.Malvaceae"
+"APG.Cucurbitaceae"
+"APG.Solanaceae"
+"APG.BasalEudicots"
+"APG.Papaveraceae"
+"APG.Ericales"
+"APG.Ericaceae"
+"APG.Eudicots"
+"APG.Salicaceae"
+"APG.Sapindaceae"
+"APG.Angiosperms"
+"APG.AsteridClade"
+"APG.Portulacaceae"
+"APG.CaryophyllidClade"
+"APG.Mimosoideae"
+"APG.CoreEudicots"
+"APG.Arecaceae"
+"APG.Violaceae"
+"APG.Liliales"
+"APG.Poales"
+"APG.Betulaceae"
+"APG.Magnoliaceae"
+"APG.Dipsacales"
+"APG.Rosales"
+"APG.Asteraceae"
+"APG.Caryophyllaceae"
+"APG.RosidClade"
+"APG.Lamiaceae"
+"APG.Apiales"
+"APG.Ranunculales"
+"APG.Orchidaceae"
+"APG.Caprifoliaceae"
+"APG.Iridaceae"
+"APG.Saxifragales"
+"APG.Apiaceae"
+"APG.Oleaceae"
+"APG.Solanales"
+"APG.Sapindales"
+"APG.Liliaceae"
+"APG.Magnoliales"
+"APG.Magnoliids"
+"APG.Caryophyllales"
+"APG.Lamiales"
+"APG.Moraceae"
+"APG.Fagales"
+"APG.Fagaceae"
+"APG.Monocots"
+"APG.Faboideae"
+"APG.Caesalpinioideae"
+"APG.Asclepiadaceae"
+"APG.Cactaceae"
+"APG.Scrophulariaceae"
+"APG.Fabaceae"
+"APG.Brassicales"
+"APG.Ranunculaceae"
+"APG.Polygonaceae"
+"APG.Poaceae"
+"APG.Hamamelidaceae"
+"APG.Alismatales"
+edge[style=solid color="#000000" constraint=true penwidth=1 dir=forward]
+edge[style=solid color="#000000" constraint=true penwidth=1 dir=forward]
+"C.Malvales" -> "C.Malvaceae" [dir=back]
+"C.Scrophulariales" -> "C.Scrophulariaceae" [dir=back]
+"C.Violales" -> "C.Cucurbitaceae" [dir=back]
+"C.Ranunculales" -> "C.Ranunculaceae" [dir=back]
+"C.Caryophyllidae" -> "C.Ericales" [dir=back]
+"C.Liliales" -> "C.Iridaceae" [dir=back]
+"C.Caryophyllidae" -> "C.Caryophyllales" [dir=back]
+"C.Hamamelidales" -> "C.Hamamelidaceae" [dir=back]
+"C.Papaverales" -> "C.Papaveraceae" [dir=back]
+"C.Magnoliidae" -> "C.Magnoliales" [dir=back]
+"C.Magnoliopsida" -> "C.Rosidae" [dir=back]
+"C.Sapindales" -> "C.Aceraceae" [dir=back]
+"C.Asteridae" -> "C.Scrophulariales" [dir=back]
+"C.Rosales" -> "C.Rosaceae" [dir=back]
+"C.Cyperales" -> "C.Poaceae" [dir=back]
+"C.Liliidae" -> "C.Liliales" [dir=back]
+"C.Arecidae" -> "C.Arales" [dir=back]
+"C.Rosidae" -> "C.Myrtales" [dir=back]
+"C.Dipsacales" -> "C.Caprifoliaceae" [dir=back]
+"C.Rosidae" -> "C.Rosales" [dir=back]
+"C.Caryophyllales" -> "C.Cactaceae" [dir=back]
+"C.Myrtales" -> "C.Onagraceae" [dir=back]
+"C.Arales" -> "C.Araceae" [dir=back]
+"C.Salicales" -> "C.Salicaceae" [dir=back]
+"C.Caryophyllidae" -> "C.Polygonales" [dir=back]
+"C.Liliopsida" -> "C.Arecidae" [dir=back]
+"C.Magnoliophyta" -> "C.Magnoliopsida" [dir=back]
+"C.Hamamelidae" -> "C.Hamamelidales" [dir=back]
+"C.Gentianales" -> "C.Asclepiadaceae" [dir=back]
+"C.Rosidae" -> "C.Apiales" [dir=back]
+"C.Magnoliopsida" -> "C.Caryophyllidae" [dir=back]
+"C.Rosidae" -> "C.Euphorbiales" [dir=back]
+"C.Fabales" -> "C.Mimosaceae" [dir=back]
+"C.Magnoliales" -> "C.Magnoliaceae" [dir=back]
+"C.Violales" -> "C.Violaceae" [dir=back]
+"C.Arecales" -> "C.Arecaceae" [dir=back]
+"C.Caryophyllidae" -> "C.Salicales" [dir=back]
+"C.Liliopsida" -> "C.Commelinidae" [dir=back]
+"C.Ericales" -> "C.Ericaceae" [dir=back]
+"C.Magnoliopsida" -> "C.Asteridae" [dir=back]
+"C.Asteridae" -> "C.Asterales" [dir=back]
+"C.Caryophyllidae" -> "C.Malvales" [dir=back]
+"C.Magnoliidae" -> "C.Papaverales" [dir=back]
+"C.Liliopsida" -> "C.Liliidae" [dir=back]
+"C.Rosidae" -> "C.Sapindales" [dir=back]
+"C.Lamiales" -> "C.Lamiaceae" [dir=back]
+"C.Magnoliopsida" -> "C.Hamamelidae" [dir=back]
+"C.Caryophyllales" -> "C.Portulacaceae" [dir=back]
+"C.Liliales" -> "C.Liliaceae" [dir=back]
+"C.Caryophyllales" -> "C.Caryophyllaceae" [dir=back]
+"C.Fagales" -> "C.Betulaceae" [dir=back]
+"C.Asteridae" -> "C.Dipsacales" [dir=back]
+"C.Apiales" -> "C.Apiaceae" [dir=back]
+"C.Hamamelidae" -> "C.Urticales" [dir=back]
+"C.Polygonales" -> "C.Polygonaceae" [dir=back]
+"C.Solanales" -> "C.Solanaceae" [dir=back]
+"C.Caryophyllidae" -> "C.Capparales" [dir=back]
+"C.Rosidae" -> "C.Fabales" [dir=back]
+"C.Liliidae" -> "C.Orchidales" [dir=back]
+"C.Asteridae" -> "C.Gentianales" [dir=back]
+"C.Asteridae" -> "C.Solanales" [dir=back]
+"C.Urticales" -> "C.Moraceae" [dir=back]
+"C.Magnoliidae" -> "C.Ranunculales" [dir=back]
+"C.Fagales" -> "C.Fagaceae" [dir=back]
+"C.Asteridae" -> "C.Lamiales" [dir=back]
+"C.Orchidales" -> "C.Orchidaceae" [dir=back]
+"C.Sapindales" -> "C.Hippocastanaceae" [dir=back]
+"C.Asterales" -> "C.Asteraceae" [dir=back]
+"C.Hamamelidae" -> "C.Fagales" [dir=back]
+"C.Euphorbiales" -> "C.Euphorbiaceae" [dir=back]
+"C.Scrophulariales" -> "C.Oleaceae" [dir=back]
+"C.Fabales" -> "C.Fabaceae" [dir=back]
+"C.Capparales" -> "C.Brassicaceae" [dir=back]
+"C.Magnoliopsida" -> "C.Magnoliidae" [dir=back]
+"C.Fabales" -> "C.Caesalpiniaceae" [dir=back]
+"C.Arecidae" -> "C.Arecales" [dir=back]
+"C.Sapindales" -> "C.Sapindaceae" [dir=back]
+"C.Caryophyllidae" -> "C.Violales" [dir=back]
+"C.Magnoliophyta" -> "C.Liliopsida" [dir=back]
+"C.Commelinidae" -> "C.Cyperales" [dir=back]
+edge[style=solid color="#000000" constraint=true penwidth=1 dir=forward]
+edge[style=solid color="#000000" constraint=true penwidth=1 dir=forward]
+"APG.Ranunculales" -> "APG.BasalEudicots"
+"APG.Fabales" -> "APG.RosidClade"
+"APG.Fagaceae" -> "APG.Fagales"
+"APG.Violaceae" -> "APG.Malpighiales"
+"APG.Cactaceae" -> "APG.Caryophyllales"
+"APG.Asclepiadaceae" -> "APG.Gentianales"
+"APG.Betulaceae" -> "APG.Fagales"
+"APG.Onagraceae" -> "APG.Myrtales"
+"APG.AsteridClade" -> "APG.Eudicots"
+"APG.CoreEudicots" -> "APG.Eudicots"
+"APG.Poales" -> "APG.Monocots"
+"APG.Euphorbiaceae" -> "APG.Malpighiales"
+"APG.Sapindaceae" -> "APG.Sapindales"
+"APG.Araceae" -> "APG.Alismatales"
+"APG.Apiales" -> "APG.AsteridClade"
+"APG.Malvaceae" -> "APG.Malvales"
+"APG.Asterales" -> "APG.AsteridClade"
+"APG.Fagales" -> "APG.RosidClade"
+"APG.Ranunculaceae" -> "APG.Ranunculales"
+"APG.Malvales" -> "APG.RosidClade"
+"APG.Cucurbitales" -> "APG.RosidClade"
+"APG.Solanaceae" -> "APG.Solanales"
+"APG.Cucurbitaceae" -> "APG.Cucurbitales"
+"APG.Arecales" -> "APG.Monocots"
+"APG.Liliales" -> "APG.Monocots"
+"APG.RosidClade" -> "APG.Eudicots"
+"APG.Arecaceae" -> "APG.Arecales"
+"APG.CaryophyllidClade" -> "APG.Eudicots"
+"APG.Lamiales" -> "APG.AsteridClade"
+"APG.Malpighiales" -> "APG.RosidClade"
+"APG.Ericales" -> "APG.AsteridClade"
+"APG.Lamiaceae" -> "APG.Lamiales"
+"APG.Asparagales" -> "APG.Monocots"
+"APG.Asteraceae" -> "APG.Asterales"
+"APG.Brassicales" -> "APG.RosidClade"
+"APG.Dipsacales" -> "APG.AsteridClade"
+"APG.Mimosoideae" -> "APG.Fabaceae"
+"APG.Portulacaceae" -> "APG.Caryophyllales"
+"APG.Alismatales" -> "APG.Monocots"
+"APG.Caryophyllaceae" -> "APG.Caryophyllales"
+"APG.Papaveraceae" -> "APG.Ranunculales"
+"APG.Sapindales" -> "APG.RosidClade"
+"APG.Monocots" -> "APG.Angiosperms"
+"APG.Faboideae" -> "APG.Fabaceae"
+"APG.BasalEudicots" -> "APG.Eudicots"
+"APG.Magnoliales" -> "APG.Magnoliids"
+"APG.Gentianales" -> "APG.AsteridClade"
+"APG.Rosales" -> "APG.RosidClade"
+"APG.Magnoliids" -> "APG.Angiosperms"
+"APG.Apiaceae" -> "APG.Apiales"
+"APG.Liliaceae" -> "APG.Liliales"
+"APG.Caryophyllales" -> "APG.CaryophyllidClade"
+"APG.Poaceae" -> "APG.Poales"
+"APG.Rosaceae" -> "APG.Rosales"
+"APG.Salicaceae" -> "APG.Malpighiales"
+"APG.Orchidaceae" -> "APG.Asparagales"
+"APG.Hamamelidaceae" -> "APG.Saxifragales"
+"APG.Ericaceae" -> "APG.Ericales"
+"APG.Oleaceae" -> "APG.Lamiales"
+"APG.Scrophulariaceae" -> "APG.Lamiales"
+"APG.Caesalpinioideae" -> "APG.Fabaceae"
+"APG.Brassicaceae" -> "APG.Brassicales"
+"APG.Myrtales" -> "APG.RosidClade"
+"APG.Iridaceae" -> "APG.Asparagales"
+"APG.Caprifoliaceae" -> "APG.Dipsacales"
+"APG.Fabaceae" -> "APG.Fabales"
+"APG.Polygonaceae" -> "APG.Caryophyllales"
+"APG.Eudicots" -> "APG.Angiosperms"
+"APG.Magnoliaceae" -> "APG.Magnoliales"
+"APG.Saxifragales" -> "APG.CoreEudicots"
+"APG.Solanales" -> "APG.AsteridClade"
+"APG.Moraceae" -> "APG.Rosales"
+edge[style=solid color="#000000" constraint=true penwidth=1 dir=forward]
+edge[style=dashed color="#AA00FF" constraint=true penwidth=2 dir=both]
+"C.Hamamelidaceae" -> "APG.Hamamelidaceae" [label="="]
+"C.Apiaceae" -> "APG.Apiaceae" [label="="]
+"C.Asteraceae" -> "APG.Asteraceae" [label="="]
+"C.Rosaceae" -> "APG.Rosaceae" [label="="]
+"C.Poaceae" -> "APG.Poaceae" [label="="]
+"C.Ranunculaceae" -> "APG.Ranunculaceae" [label="="]
+"C.Sapindaceae" -> "APG.Sapindaceae" [label="<"]
+"C.Iridaceae" -> "APG.Iridaceae" [label="="]
+"C.Scrophulariaceae" -> "APG.Scrophulariaceae" [label="="]
+"C.Onagraceae" -> "APG.Onagraceae" [label="="]
+"C.Salicaceae" -> "APG.Salicaceae" [label="="]
+"C.Asclepiadaceae" -> "APG.Asclepiadaceae" [label="="]
+"C.Euphorbiaceae" -> "APG.Euphorbiaceae" [label="="]
+"C.Violaceae" -> "APG.Violaceae" [label="="]
+"C.Orchidaceae" -> "APG.Orchidaceae" [label="="]
+"C.Caryophyllaceae" -> "APG.Caryophyllaceae" [label="="]
+"C.Magnoliophyta" -> "APG.Angiosperms" [label="="]
+"C.Moraceae" -> "APG.Moraceae" [label="="]
+"C.Fagaceae" -> "APG.Fagaceae" [label="="]
+"C.Arecaceae" -> "APG.Arecaceae" [label="="]
+"C.Cucurbitaceae" -> "APG.Cucurbitaceae" [label="="]
+"C.Magnoliaceae" -> "APG.Magnoliaceae" [label="="]
+"C.Papaveraceae" -> "APG.Papaveraceae" [label="="]
+"C.Brassicaceae" -> "APG.Brassicaceae" [label="="]
+"C.Aceraceae" -> "APG.Sapindaceae" [label="<"]
+"C.Fabaceae" -> "APG.Faboideae" [label="="]
+"C.Portulacaceae" -> "APG.Portulacaceae" [label="="]
+"C.Polygonaceae" -> "APG.Polygonaceae" [label="="]
+"C.Solanaceae" -> "APG.Solanaceae" [label="="]
+"C.Caesalpiniaceae" -> "APG.Caesalpinioideae" [label="="]
+"C.Araceae" -> "APG.Araceae" [label="="]
+"C.Mimosaceae" -> "APG.Mimosoideae" [label="="]
+"C.Cactaceae" -> "APG.Cactaceae" [label="="]
+"C.Hippocastanaceae" -> "APG.Sapindaceae" [label="<"]
+"C.Caprifoliaceae" -> "APG.Caprifoliaceae" [label="="]
+"C.Lamiaceae" -> "APG.Lamiaceae" [label="="]
+"C.Oleaceae" -> "APG.Oleaceae" [label="="]
+"C.Betulaceae" -> "APG.Betulaceae" [label="="]
+"C.Ericaceae" -> "APG.Ericaceae" [label="="]
+"C.Malvaceae" -> "APG.Malvaceae" [label="="]
+"C.Liliaceae" -> "APG.Liliaceae" [label="="]
+node[shape=box] 
+{rank=source Legend [fillcolor= white margin=0 label=< 
+ <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4"> 
+<TR> <TD COLSPAN="2"><font face="Arial Black"> Nodes</font></TD> </TR> 
+<TR> 
+ <TD bgcolor="#CCFFCC" fontname="helvetica">C</TD> 
+ <TD>81</TD> 
+ </TR> 
+<TR> 
+ <TD bgcolor="#FFFFCC" fontname="helvetica">APG</TD> 
+ <TD>73</TD> 
+ </TR> 
+<TR> <TD COLSPAN="2"><font face = "Arial Black"> Edges </font></TD> </TR> 
+<TR> 
+ <TD><font color ="#000000">is_a (C)</font></TD><TD>80</TD>
+</TR>
+<TR> 
+ <TD><font color ="#000000">is_a (APG)</font></TD><TD>72</TD>
+</TR>
+<TR> 
+ <TD><font color ="#AA00FF">articulations</font></TD><TD>41</TD>
+</TR>
+</TABLE> 
+ >] } 
+}

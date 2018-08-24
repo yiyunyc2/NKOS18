@@ -1,0 +1,52 @@
+digraph{
+rankdir=TB
+node[shape=circle style=filled fillcolor="#FFFFFF"] 
+node[shape=note style=filled fillcolor="#FFFFCC" fontname="helvetica"] 
+"T2.x"
+"T2.y"
+"T2.z"
+node[shape=circle style=filled fillcolor="#FFFFFF"] 
+node[shape=box style=filled fillcolor="#CCFFCC" fontname="helvetica"] 
+"T1.b"
+"T1.c"
+"T1.a"
+edge[style=solid color="#000000" constraint=true penwidth=1 dir=forward]
+edge[style=solid color="#000000" constraint=true penwidth=1 dir=forward]
+"T1.a" -> "T1.c" [dir=back]
+"T1.a" -> "T1.b" [dir=back]
+edge[style=solid color="#000000" constraint=true penwidth=1 dir=forward]
+edge[style=solid color="#000000" constraint=true penwidth=1 dir=forward]
+"T2.z" -> "T2.x"
+"T2.y" -> "T2.x"
+edge[style=solid color="#000000" constraint=true penwidth=1 dir=forward]
+edge[style=dashed color="#AA00FF" constraint=true penwidth=2 dir=both]
+"T1.a" -> "T2.x" [label="="]
+
+{rank=same "T2.x" "T1.a"}
+{rank=same "T2.y" "T1.b" "T2.z"}
+
+// node[shape=box] 
+// {rank=source Legend [fillcolor= white margin=0 label=< 
+//  <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4"> 
+// <TR> <TD COLSPAN="2"><font face="Arial Black"> Nodes</font></TD> </TR> 
+// <TR> 
+//  <TD bgcolor="#FFFFCC" fontname="helvetica">T2</TD> 
+//  <TD>3</TD> 
+//  </TR> 
+// <TR> 
+//  <TD bgcolor="#CCFFCC" fontname="helvetica">T1</TD> 
+//  <TD>3</TD> 
+//  </TR> 
+// <TR> <TD COLSPAN="2"><font face = "Arial Black"> Edges </font></TD> </TR> 
+// <TR> 
+//  <TD><font color ="#000000">is_a (T1)</font></TD><TD>2</TD>
+// </TR>
+// <TR> 
+//  <TD><font color ="#000000">is_a (T2)</font></TD><TD>2</TD>
+// </TR>
+// <TR> 
+//  <TD><font color ="#AA00FF">articulations</font></TD><TD>1</TD>
+// </TR>
+// </TABLE> 
+//  >] } 
+}
