@@ -15,6 +15,8 @@ Advancement in technologies such as DNA analysis has given rise to new ways in o
 
 [Link to results](https://github.com/yiyunyc2/NKOS18/tree/master/Result)
 
+[Link to presentation slides](https://github.com/yiyunyc2/NKOS18/blob/master/NKOS18_presentation.pdf)
+
 ## Replay use cases
 To replay the use cases you can use the EulerX toolkit. There are two versions of the available. Please refer to the README of [euler2](https://github.com/rodenhausen/ASIST17/blob/master/euler2/README.md) for more information on how to run the use cases of the paper.
 
