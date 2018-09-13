@@ -11,7 +11,7 @@ Advancement in technologies such as DNA analysis has given rise to new ways in o
 **Keywords**: taxonomy alignment, KOS alignment, interoperability
 
 ## Paper and Results
-Link to paper
+[Link to paper](http://ceur-ws.org/Vol-2200/paper6.pdf)
 
 [Link to results](https://github.com/yiyunyc2/NKOS18/tree/master/Result)
 
